@@ -82,6 +82,12 @@ Developed an interactive dashboard featuring:
 * Executive summary page
 
 ---
+## Dashboard Preview
+![Dashboard](Dashboard.png)
+
+## Executive Summary
+
+![Executive Summary](Executive%20Summary.png)
 
 ## Key Findings
 
